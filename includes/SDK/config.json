@@ -1,0 +1,8 @@
+{
+  "rootsrated":{
+    "image_upload_path": "",
+    "posttype": "Post",
+    "application_path": "",
+    "phone_home_url" : "https://blog-app.springbot.com/tidal/v1_0/"
+  }
+}
